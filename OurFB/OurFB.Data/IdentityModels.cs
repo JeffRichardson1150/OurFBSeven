@@ -1,7 +1,12 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration;
+using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -31,8 +36,14 @@ namespace OurFB.Data
             return new ApplicationDbContext();
         }
 
-        public DbSet<Note> Notes { get; set; } //<--- Add this
-        public DbSet<Category> Categorys { get; set; }
+        public DbSet<User> User { get; set; }
+        public DbSet<Comment> Comment { get; set; } //<--- Will need to add these when we create the classes
+        
+        public DbSet<Post> Post { get; set; }
+        public DbSet<Reply> Reply { get; set; }
+
+        public DbSet<Like> Like { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder

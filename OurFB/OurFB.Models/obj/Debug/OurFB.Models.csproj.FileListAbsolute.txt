@@ -1,0 +1,6 @@
+C:\ElevenFiftySD\BlueBadge\OurFBSeven\OurFB\OurFB.Models\bin\Debug\OurFB.Models.dll
+C:\ElevenFiftySD\BlueBadge\OurFBSeven\OurFB\OurFB.Models\bin\Debug\OurFB.Models.pdb
+C:\ElevenFiftySD\BlueBadge\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.csprojAssemblyReference.cache
+C:\ElevenFiftySD\BlueBadge\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftySD\BlueBadge\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.dll
+C:\ElevenFiftySD\BlueBadge\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.pdb

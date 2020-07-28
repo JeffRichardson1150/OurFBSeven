@@ -33,3 +33,6 @@ C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\bin\D
 C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\bin\Debug\System.Web.Http.xml
 C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\obj\Debug\OurFB.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\obj\Debug\OurFB.Data.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Data\obj\Debug\OurFB.Data.Migrations.FirstMigration.resources

@@ -246,6 +246,20 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OurFB.Data\OurFB.Data.csproj">
+      <Project>{2779772c-47e5-4da7-b604-fef90187e36f}</Project>
+      <Name>OurFB.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OurFB.Models\OurFB.Models.csproj">
+      <Project>{6602baea-40a6-44e9-b453-55e601dbab2e}</Project>
+      <Name>OurFB.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OurFB.Services\OurFB.Services.csproj">
+      <Project>{0d007cec-6210-44a1-96ab-085ae23f514c}</Project>
+      <Name>OurFB.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

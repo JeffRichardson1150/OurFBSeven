@@ -10,6 +10,10 @@ namespace OurFB.Data
 {
     public class Like
     {
+
+        [Key]
+        public int LikeId { get; set;  }
+
         [Required]
         public bool Likes { get; set; }
         [Required]

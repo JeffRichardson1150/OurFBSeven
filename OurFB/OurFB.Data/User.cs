@@ -10,7 +10,11 @@ namespace OurFB.Data
     public class User
     {
         [Key]
-        public Guid Id { get; set; }
+        public int UserId { get; set; }
+
+        [Required]
+        public Guid OwnerId { get; set; }
+        
         [Required]
         public string Name { get; set; }
         [Required]

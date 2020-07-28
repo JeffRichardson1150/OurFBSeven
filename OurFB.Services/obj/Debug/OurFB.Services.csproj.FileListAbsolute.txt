@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Services\bin\Debug\OurFB.Services.dll
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Services\bin\Debug\OurFB.Services.pdb
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Services\obj\Debug\OurFB.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Services\obj\Debug\OurFB.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Services\obj\Debug\OurFB.Services.dll
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Services\obj\Debug\OurFB.Services.pdb

@@ -4,3 +4,13 @@ C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\obj
 C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.dll
 C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.pdb
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\OurFB.Data.dll
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\OurFB.Data.pdb
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\OurFB.Data.dll.config
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\BlueBadge\24HourProject\OurFBSeven\OurFB\OurFB.Models\obj\Debug\OurFB.Models.csproj.CopyComplete

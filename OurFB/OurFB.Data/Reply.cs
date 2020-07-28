@@ -10,6 +10,10 @@ namespace OurFB.Data
 {
     public class Reply : Comment
     {
+
+        [Key]
+        public int ReplyId { get; set;  }
+
         [Required]
         public int CommentId { get; set; }
         [ForeignKey(nameof(CommentId))]

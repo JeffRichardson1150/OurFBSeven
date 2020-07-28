@@ -14,8 +14,11 @@ namespace OurFB.Data
         public int CommentId { get; set; }
 
         [Required]
+        public string Title { get; set; }
+
+        [Required]
         public string Text { get; set; }
-        
+
         [Required]
         public int UserId { get; set; }
         [ForeignKey(nameof(UserId))]
@@ -25,6 +28,8 @@ namespace OurFB.Data
         public int PostId { get; set; }
         [ForeignKey(nameof(PostId))]
         public virtual Post CommentPost { get; set; }
+
+        public Guid OwnerId { get; set; }
 
     }
 }

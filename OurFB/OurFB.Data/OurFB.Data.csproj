@@ -91,9 +91,13 @@
     <Compile Include="Migrations\202007281521030_InitialCreate.Designer.cs">
       <DependentUpon>202007281521030_InitialCreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202007281530033_FirstMigration.cs" />
-    <Compile Include="Migrations\202007281530033_FirstMigration.Designer.cs">
-      <DependentUpon>202007281530033_FirstMigration.cs</DependentUpon>
+    <Compile Include="Migrations\202007281615554_secdmigration.cs" />
+    <Compile Include="Migrations\202007281615554_secdmigration.Designer.cs">
+      <DependentUpon>202007281615554_secdmigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007281722116_third.cs" />
+    <Compile Include="Migrations\202007281722116_third.Designer.cs">
+      <DependentUpon>202007281722116_third.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Post.cs" />
@@ -109,8 +113,11 @@
     <EmbeddedResource Include="Migrations\202007281521030_InitialCreate.resx">
       <DependentUpon>202007281521030_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202007281530033_FirstMigration.resx">
-      <DependentUpon>202007281530033_FirstMigration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202007281615554_secdmigration.resx">
+      <DependentUpon>202007281615554_secdmigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007281722116_third.resx">
+      <DependentUpon>202007281722116_third.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
